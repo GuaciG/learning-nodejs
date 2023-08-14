@@ -1,0 +1,33 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "Midudev course tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuaciG/learning-nodejs.git"
+  },
+  "keywords": [
+    "course",
+    "node",
+    "nodejs"
+  ],
+  "author": "Guaci Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuaciG/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/GuaciG/learning-nodejs#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
